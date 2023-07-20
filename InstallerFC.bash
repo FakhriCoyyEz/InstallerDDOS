@@ -15,7 +15,7 @@ echo $me"_________________________________________"
 echo $e" |   Welcome to Tool DDOS Installer      |"
 echo $e" |       [+] Author : FakhriCoyy         |"
 echo $e" |   Jangan Lupa Subscribe Channel Saya  |"
-echo $e" |             Heheha                    |"
+echo $e" |                                       |"
 echo $e" |                                       |"
 echo $me"|<------------------------------------->|"
 sleep 1
