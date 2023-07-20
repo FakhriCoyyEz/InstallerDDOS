@@ -16,3 +16,5 @@ Cara Menggunakan:
 6.cd InstallerDDOS
 
 7.ls
+
+8.sh InstallerFC.bash
