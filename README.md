@@ -3,13 +3,13 @@ Untuk menginstal tools yang bertujuan untuk DDOS dan menjalankannya
 
 Cara Menggunakan:
 
-1.pkg update
+1.apt update
 
-2.pkg upgrade
+2.apt upgrade
 
-3.pkg install bash
+3.apt install bash
 
-4.pkg install git
+4.apt install git
 
 5.git clone https://github.com/FakhriCoyyEz/InstallerDDOS
 
